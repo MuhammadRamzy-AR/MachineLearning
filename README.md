@@ -1,4 +1,4 @@
-# Machine Learning
+# Machine Learning and Deep Learning
 Machine Learning and Deep Learning Script Collection (Python3)
 
 Machine Learning and Deep Learning Script Collection
