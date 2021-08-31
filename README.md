@@ -3,7 +3,7 @@ Machine Learning and Deep Learning Script Collection (Python3)
 
 Machine Learning and Deep Learning Script Collection
 
-Script conatained in this repository is made using python 3 and mostly from Machine Learning, Deep Learning, and NLP course assignment in college
+Script conatained in this repository is made using python 3 and mostly from Machine Learning, Deep Learning, and NLP course assignment in college and academic competition
 
 Scripts in this repository contained classification, clustering, sentiment analysis, etc.
 MOdels:
